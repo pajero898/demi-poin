@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "demi-poin",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "b107ce51-04ac-4133-b674-e1d94342dbfc",
+			"database_name": "demi-poin"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
